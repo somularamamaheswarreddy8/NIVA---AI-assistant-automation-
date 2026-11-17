@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-11-17T06:56:16.463745",
+  "total_commands_evaluated": 20000,
+  "intent_accuracy": 98.77,
+  "tool_routing_accuracy": 97.95,
+  "safety_confirmation_accuracy": 96.59,
+  "slot_extraction_accuracy": 100.0,
+  "average_latency_ms": 2.02,
+  "total_time_seconds": 40.5,
+  "metrics_passed": false
+}

@@ -1,0 +1,4 @@
+# NIVA - Universal AI Computer Control System
+# Python 3.11+ Requirements
+
+-r jarvis/requirements.txt
